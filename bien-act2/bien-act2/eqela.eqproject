@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Bien_Act2
+#
+
+projectname: Bien_Act2
+vendorid: com.mycompany
+mainmodule: com.mycompany.bienact2
